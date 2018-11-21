@@ -1,0 +1,10 @@
+.container{
+  margin-left:5%;
+  margin-top: 10px;
+}
+input{
+  padding: 10px;
+  background: darkgray;
+  color: #ffffff;
+}
+body {TEXT-ALIGN: center;}
